@@ -25,11 +25,11 @@ This iOS app demonstrates Bluetooth device scanning, connection, and management 
    ```bash
    git clone https://github.com/bhaswati2402/iOSMachineTest.git
    
-Open the Project:
+2. **Open the Project** :
 
 Open the iOSMachineTest.xcodeproj file in Xcode.
 
-Run the Application:
+3. **Run the Application**:
 
 Connect a physical iOS device (since Bluetooth cannot be tested on the simulator).
 
